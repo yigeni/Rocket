@@ -5,7 +5,7 @@
 随着跨境访问需求的持续增加，小火箭Shadowrocket已成为iPhone或ios用户首选的网络加速工具。相比其它工具，小火箭具备简洁美观、强大稳定、支持自定义订阅链接等优点，因此也成为苹果用户科学上网的首选。小编将详细介绍如何下载Shadowrocket、购买节点订阅链接、导入配置、进行续费，让你轻松开启稳定、高速、安全的富强上网体验。
 
 <h3>📌 下载小火箭Shadowrocket</h3><br />
-你的iPhone或ios里面必须有Shadowrocket这个app，若已经有的话继续看下一步。若没有，则需要先去注册美区苹果id后，再登录美区苹果id下载Shadowrocket这个app，具体教程：点击打开。
+你的iPhone或ios里面必须有Shadowrocket这个app，若已经有的话继续看下一步。若没有，则需要先去注册美区苹果id后，再登录美区苹果id下载Shadowrocket这个app，具体教程：<a href="https://www.yigeni.com/how-to-quickly-sign-up-for-an-apple-id-in-the-us/" target="_blank" rel="noopener">点击打开</a>。
 
 <h3>🛒 小火箭节点订阅链接购买和导入教程</h3><br />
 要使用小火箭，首先你需要获取有效的节点订阅链接。以下是购买流程：
