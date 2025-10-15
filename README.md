@@ -15,7 +15,7 @@
 a、这些商家注册时都需要使用实名或国内邮箱、手机号这些注册，毫无隐私可言；<br />
 b、他们的节点服务器线路往往都是普通的CN2 GIA或中继等，数据是过墙的，毫无安全可言；<br />
 c、为了最大利润化，他们舍不得采用iplc专线，高峰时期卡得飞起，毫无体验感、速度、稳定可言；
-
+<br />
 因此，想要看视频秒开、直播不卡顿、<a href="https://www.yigeni.com/open-source-game-accelerator-netch-tutorial/" target="_blank" rel="noopener">玩游戏流畅</a>、跨境电商安全、<a href="https://www.yigeni.com/tradingview-access-is-slow/" target="_blank" rel="noopener">TradingView看盘稳定</a>等等，强烈建议购买以下小火箭节点订阅链接（经过小编5年以上测试）：
 
 –> 最新技术企业级iplc专线节点(★★★★★)：<a href="https://www.yigeni.com/iplc-dedicated-airport/" target="_blank" rel="noopener">点击购买</a><br />
