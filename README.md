@@ -16,9 +16,9 @@ a、这些商家注册时都需要使用实名或国内邮箱、手机号这些�
 b、他们的节点服务器线路往往都是普通的CN2 GIA或中继等，数据是过墙的，毫无安全可言；<br />
 c、为了最大利润化，他们舍不得采用iplc专线，高峰时期卡得飞起，毫无体验感、速度、稳定可言；
 
-因此，想要看视频秒开、直播不卡顿、玩游戏流畅、跨境电商安全、TradingView看盘稳定等等，强烈建议购买以下小火箭节点订阅链接（经过小编5年以上测试）：
+因此，想要看视频秒开、直播不卡顿、<a href="https://www.yigeni.com/open-source-game-accelerator-netch-tutorial/" target="_blank" rel="noopener">玩游戏流畅</a>、跨境电商安全、<a href="https://www.yigeni.com/tradingview-access-is-slow/" target="_blank" rel="noopener">TradingView看盘稳定</a>等等，强烈建议购买以下小火箭节点订阅链接（经过小编5年以上测试）：
 
-–> 最新技术企业级iplc专线节点(★★★★★)：点击购买<br />
+–> 最新技术企业级iplc专线节点(★★★★★)：<a href="https://www.yigeni.com/iplc-dedicated-airport/" target="_blank" rel="noopener">点击购买</a><br />
 (免搭建、速度快、稳定不掉线不断流、节点多、原生ip多，能看Netflix/HBO/Hulu等)
 
 <h4>✅ 第二步：导入节点订阅链接到小火箭</h4><br />
@@ -31,7 +31,7 @@ c、为了最大利润化，他们舍不得采用iplc专线，高峰时期卡得
 这样就可以实现谷歌、youtube、instagram等访问了…<br />
 Ps：建议开启“自动后台更新”（在“设置——更新——订阅”里面）。
 
-更详细的可以去看这篇文章里面的“二、获取订阅链接”部分：点击打开。
+更详细的可以去看这篇文章里面的“二、获取订阅链接”部分：<a href="https://www.yigeni.com/shadowrocket-latest-tutorial/" target="_blank" rel="noopener">点击打开</a>。
 
 <h3>🔄 节点续费事项/避免访问中断</h3><br />
 请务必在“节点订阅链接”套餐到期或流量用尽之前，及时联系小编进行续费，以避免造成访问中断！
