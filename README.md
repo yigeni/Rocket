@@ -59,6 +59,6 @@ A：节点属于虚拟服务，一经售出不支持退款。
 🎯 订阅链接导入与ios科学上网<br />
 <br />
 最后，如何联系小编？可以关注以下方式:<br />
-电子邮箱Email：yigeni@yigeni.com<br />
+电子邮箱Email：<a href="mailto:yigeni@yigeni.com" target="_blank" rel="noopener">yigeni@yigeni.com</a><br />
 小编的电报telegram：yigeni<br />
 所以，可以通过电报TG或电子邮箱Email联系小编，会第一时间回复大家的！
